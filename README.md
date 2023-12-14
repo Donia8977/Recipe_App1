@@ -19,3 +19,8 @@ Retrofit Library for API communication.
 ViewModel & LiveData for maintaining UI state.
 Follows the Repository Pattern in the MVVM architecture.
 Dependency Injection for managing app components.
+
+📚 Resources
+API: https://www.themealdb.com/api.php
+Programming Language: Kotlin
+
